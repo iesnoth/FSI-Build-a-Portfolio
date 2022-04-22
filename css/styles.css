@@ -1,4 +1,7 @@
 body {
+cursor: crosshair;
+margin-left: 100px;
+margin-right: 100px;
 font-family: 'Courier New', Courier, monospace;
 background-color: black;
 color:rgb(44, 182, 58);
@@ -15,7 +18,15 @@ color:rgb(44, 182, 58);
 }
 
 #contact {
+  /*figure out how to change background image for certain sections*/
+    background:"82abdc6c0818f80ada086fb1b912a62e.jpg";
+    margin-left:400px;
+    margin-right: 400px;
     border-style: dashed;
     border-color: rgb(93, 215, 105);
+}
+
+hr {
+    border:2px dotted green
 }
     
