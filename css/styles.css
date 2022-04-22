@@ -3,7 +3,6 @@ cursor: crosshair;
 margin-left: 100px;
 margin-right: 100px;
 font-family: 'Courier New', Courier, monospace;
-background-image: url("matriz.jpg");
 background-color: black;
 color:rgb(44, 182, 58);
 
@@ -20,7 +19,7 @@ color:rgb(44, 182, 58);
 
 #contact {
   /*figure out how to change background image for certain sections*/
-  background-image: url("matriz.jpg");
+  background-image: url("images/coding-portfolio.jpeg");
   background-color: #cccccc;
     margin-left:400px;
     margin-right: 400px;
