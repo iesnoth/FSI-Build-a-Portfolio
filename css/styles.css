@@ -1,20 +1,13 @@
 body {
+padding-left: 11em;
+background-color: black;
 cursor: crosshair;
 margin-left: 100px;
 margin-right: 100px;
 font-family: 'Courier New', Courier, monospace;
-background-color: black;
 color:rgb(44, 182, 58);
 
 }
-
-/*div  {
-    background-image:"FSI-Build-a-Portfolio\images\coding-portfolio.jpeg";
-}
-
-#title {
-    color:rgb(4, 72, 91);
-}*/
 
 #name {
     color:rgb(44, 182, 58);
@@ -23,16 +16,22 @@ color:rgb(44, 182, 58);
 
 #contact {
   /*figure out how to change background image for certain sections*/
-  background-position: center;
+  background-image:url("FSI-Build-a-Portfolio\images\matriz.jpg");
   background-color: #cccccc;
     margin-left:400px;
     margin-right: 400px;
     border-style: dashed;
     border-color: rgb(93, 215, 105);
-    background-image:url("FSI-Build-a-Portfolio\images\matriz.jpg");
 }
 
 hr {
     border:2px dotted green
 }
-    
+
+
+/* Code from the internet i tried but didn't work
+    background-image: url("FSI-Build-a-Portfolio\images\matriz.jpg");
+    background-color: black;
+    background-size: cover;
+    background-position: center;
+    height: 100vh; */
