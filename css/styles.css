@@ -23,13 +23,13 @@ color:rgb(44, 182, 58);
 
 #contact {
   /*figure out how to change background image for certain sections*/
-  background-image:"images/coding-portfolio.jpeg";
   background-position: center;
   background-color: #cccccc;
     margin-left:400px;
     margin-right: 400px;
     border-style: dashed;
     border-color: rgb(93, 215, 105);
+    background-image:url("FSI-Build-a-Portfolio\images\matriz.jpg");
 }
 
 hr {
