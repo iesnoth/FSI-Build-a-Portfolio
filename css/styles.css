@@ -5,44 +5,47 @@ cursor: crosshair;
 margin-left: 100px;
 margin-right: 100px;
 font-family: 'Courier New', Courier, monospace;
-color:rgb(44, 182, 58);
+color:rgb(172, 15, 220);
 
 }
-
+/*unvisited link*/
 a:link {
-    color:
-
+    color:rgb(105, 255, 220)
 }
 
-#name {
-    color:rgb(44, 182, 58);
+/*visited link*/
+a:visited {
+    color:rgb(83, 5, 177)
+}
+
+/*mouse over link*/
+a:hover {
+    color:rgb(90, 63, 241)
+}
+
+ul.navbar {
+    position: absolute;
+    top: 2em;
+    left: 1em;
+    width: 9em }
+
+h1 {
+    color:rgb(44, 15, 210);
     font-style: initial;
+    background-color: linear-gradient(to bottom right, rgb(59, 4, 85), rgb(13, 231, 224));
+    background-size: cover;
 }
 
 #contact {
-  /*figure out how to change background image for certain sections*/
-  background-image:url("FSI-Build-a-Portfolio\images\matriz.jpg");
+  background-image:url("../images/matriz.jpg");
   background-color: #083d0f;
     margin-left:150px;
     margin-right:150px;
     border-style: dashed;
-    border-color: rgb(93, 215, 105);
+    border-color: rgb(76, 227, 187);
+color:#ed2ab6
 }
 
 hr {
-    border:2px dotted green
+    border:2px dotted rgb(10, 170, 122)
 }
-
-#links
-    {
-color: rgb(44, 182, 58);
-
-    }
-
-
-/* Code from the internet i tried but didn't work
-    background-image: url("FSI-Build-a-Portfolio\images\matriz.jpg");
-    background-color: black;
-    background-size: cover;
-    background-position: center;
-    height: 100vh; */
