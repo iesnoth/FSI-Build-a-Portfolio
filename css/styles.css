@@ -9,6 +9,11 @@ color:rgb(44, 182, 58);
 
 }
 
+a:link {
+    color:
+
+}
+
 #name {
     color:rgb(44, 182, 58);
     font-style: initial;
@@ -17,9 +22,9 @@ color:rgb(44, 182, 58);
 #contact {
   /*figure out how to change background image for certain sections*/
   background-image:url("FSI-Build-a-Portfolio\images\matriz.jpg");
-  background-color: #cccccc;
-    margin-left:400px;
-    margin-right: 400px;
+  background-color: #083d0f;
+    margin-left:150px;
+    margin-right:150px;
     border-style: dashed;
     border-color: rgb(93, 215, 105);
 }
@@ -27,6 +32,12 @@ color:rgb(44, 182, 58);
 hr {
     border:2px dotted green
 }
+
+#links
+    {
+color: rgb(44, 182, 58);
+
+    }
 
 
 /* Code from the internet i tried but didn't work
