@@ -57,6 +57,11 @@ h1 {
 color:#ed2ab6
 }
 
+#credits {
+    background-color: black;
+    border:2px dashed rgb(76, 227, 187);
+}
+
 hr {
     border:2px dotted rgb(10, 170, 122)
 }
