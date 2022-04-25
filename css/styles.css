@@ -1,5 +1,8 @@
 body {
 padding-left: 11em;
+background-image: url("../images/sunset.jpg");
+background-repeat: no-repeat;
+background-size: cover;
 background-color: black;
 cursor: crosshair;
 margin-left: 100px;
@@ -56,6 +59,11 @@ color:#ed2ab6
 
 hr {
     border:2px dotted rgb(10, 170, 122)
+}
+
+h3 {
+    background-color: rgb(0, 0, 0);
+    border: 2px solid rgb(76, 227, 187)
 }
 
 footer {
